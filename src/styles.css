@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
 html,
 body {
   margin: 0;
@@ -71,3 +73,13 @@ body {
     transform: translateY(-50px);
   }
 } 
+.author{
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 800;
+  user-select: none;
+  padding-top: 50px;
+}
